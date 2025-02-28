@@ -1,0 +1,25 @@
+from django.contrib import admin
+from .models import *
+# Register your models here.
+
+admin.site.register(Home)
+admin.site.register(OurServices)
+admin.site.register(ServicesTypes)
+admin.site.register(OurProperty)
+admin.site.register(About)
+admin.site.register(How_it_Works)
+admin.site.register(Dating)
+admin.site.register(Offer)
+admin.site.register(Agent)
+admin.site.register(OurBlog)
+admin.site.register(Blog)
+admin.site.register(Agency)
+admin.site.register(Property)
+admin.site.register(Read)
+admin.site.register(Contact)
+admin.site.register(Info)
+admin.site.register(Input)
+admin.site.register(Information)
+admin.site.register(Stayhome)
+admin.site.register(Question)
+admin.site.register(OurAgent)

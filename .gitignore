@@ -1,0 +1,6 @@
+venv
+.venv
+__pycashe__
+migrations
+media
+db.sqlite3
